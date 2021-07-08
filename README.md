@@ -20,11 +20,9 @@ msc (root)
 - **runmcs.py**
 
 ```python:
-
-runmcs.py
-
+$ runmcs.py
 ```
-
+_You may need to adapt path as this program was executed in spyder ide from the root._
 
 ## Customized Functions
 To adpat this algorithm to your own funciton 
