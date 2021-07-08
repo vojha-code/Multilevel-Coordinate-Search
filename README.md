@@ -12,21 +12,22 @@ Translated in Python by Varun Ojha
 ## RUN
 To run this programe execute from the project hierarchy
 
-msc (root)
-- functions
-- gls
-- mcs_func
-- mcs.py
-- **runmcs.py**
+- msc (root)
+        - functions
+        - gls
+        - mcs_func
+        - mcs.py
+        - **runmcs.py**
 
 ```python:
 $ runmcs.py
 ```
+
 _You may need to adapt path as this program was executed in spyder ide from the root._
 
 ## Customized Functions
 To adpat this algorithm to your own funciton 
 
-_Update_</br>
-        TODO: implemment your funciton [functions.py]') </br>
-        TODO: implemment your funciton papramters [defualts.py]') 
+- _Update_</br>
+        - TODO: implemment your funciton [functions.py]')
+        - TODO: implemment your funciton papramters [defualts.py]') 
