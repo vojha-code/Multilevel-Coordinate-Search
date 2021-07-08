@@ -19,7 +19,8 @@ msc (root)
 - mcs.py
 - **runmcs.py**
 
-```
+```python:
+
 runmcs.py
 
 ```
