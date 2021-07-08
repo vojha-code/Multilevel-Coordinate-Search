@@ -1,6 +1,6 @@
 ## Global optimization by multilevel coordinate search (MCS)
 
-Originaly MATLAB code Developed by Waltraud Huyer and Arnold Neumaier 
+Originaly MATLAB code Developed by Waltraud Huyer and Arnold Neumaier [br] 
 Dept. of Mathematics, University of Vienna, Austria                   
 
 **Main Source**
@@ -18,5 +18,5 @@ runmcs.py
 To adpat this algorithm to your own funciton 
 
 Update
-        TODO: implemment your funciton [functions.py]')
-        TODO: implemment your funciton papramters [defualts.py]')
+        TODO: implemment your funciton [functions.py]') [br] 
+        TODO: implemment your funciton papramters [defualts.py]') [br] 
