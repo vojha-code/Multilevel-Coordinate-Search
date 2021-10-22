@@ -1,6 +1,6 @@
 # Global optimization by multilevel coordinate search (MCS)
 
-Originaly MATLAB code Developed by Waltraud Huyer and Arnold Neumaier </br>
+Originaly the MATLAB code was Developed by Waltraud Huyer and Arnold Neumaier </br>
 Dept. of Mathematics, University of Vienna, Austria                   
 
 **Main Source**
