@@ -1,7 +1,7 @@
 # Global optimization by multilevel coordinate search (MCS)
 
 Global optimization by multilevel coordinate search (MCS). This is a dividing rectangle (i.e., Brach and Bound) like an optimization algorithm. It is similar to the DIRECT algorithm. Originaly the MATLAB code was Developed by Waltraud Huyer and Arnold Neumaier </br>
-Dept. of Mathematics, University of Vienna, Austria                   
+Dept. of Mathematics, University of Vienna, Austria.                   
 
 **Main Source**
 http://solon.cma.univie.ac.at/~neum/software/mcs/                                                 
